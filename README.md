@@ -2,7 +2,7 @@
 
 # Data Engineering Project
 
-![Architecture Diagram](Arc%20Diagram/Archetecture%20Diagram.png)   
+![Architecture Diagram](Arc%20Diagram/Archetecture%20Diagram.png)  
 
 ## Overview
 The **Data Engineering Project** was developed to address challenges in managing and analyzing large volumes of e-commerce data for an organization operating in 15 countries across North America and Europe. This project focuses on creating a scalable, real-time data pipeline for centralized analytics.
